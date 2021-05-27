@@ -1,0 +1,53 @@
+.card {
+    padding: 5px;
+    margin: 5px;
+    height: auto;
+    height: auto;
+    opacity: 90%;
+    border: 3px solid black;
+    border-radius: 0 0 0 20px;
+    
+}
+.card:hover{
+    box-shadow: 4px 7px 4px papayawhip;
+}
+
+img {
+    height: 100px;
+    width: 50%;
+}
+
+p {
+    margin: 0;
+    font-weight: bold;
+    display: list-item;
+}
+
+#cssName {
+    display: block;
+    color: rgb(0, 0, 0);
+    font-size: 19px;
+    font-weight: bold;
+    border-bottom: 2px solid black;
+}
+
+body {
+    background-image: url("assest/img/2021-qs-world-university-rankings.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 65px;
+    font-family: 'Oswald', sans-serif;
+    color: #073379;
+}
+
+#header {
+    border: 12px solid;
+    opacity: 70%;
+    background-color: rgb(252, 249, 249);
+    margin: 0;
+}
